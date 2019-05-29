@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "test": "tape test.js | tap-spec",
     "docs": "documentation readme ./index.js --section=API",
-    "prepublishOnly": "npm run docs"
+    "prepublishOnly": "npm run docs",
+    "release": "npx np"
   },
   "keywords": [
     "truncate",
