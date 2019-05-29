@@ -1,6 +1,6 @@
 {
   "name": "trnct",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Truncate all specified vowels from given word unless it is the first character",
   "main": "index.js",
   "files": [
