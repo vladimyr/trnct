@@ -3,7 +3,7 @@
 const test = require('tape');
 const trnct = require('./');
 
-test('trunacates vowels: [eio]', t => {
+test('truncates vowels: [eio]', t => {
   t.plan(1);
   t.is(trnct('vowels'), 'vwls', `trnct('vowels') //=> vwls`);
 });
