@@ -4,6 +4,8 @@
 
 > Truncate vowels ~ `e`ℹ️🅾️
 
+[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
 ## Instalation
 
     $ npm install trnct
